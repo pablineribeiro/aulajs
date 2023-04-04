@@ -1,0 +1,13 @@
+let nome = "Pabline Samara"
+let idade = 33
+let isEstudando = true
+let peso = 60.6
+let esportesFavoritos =["basquete","fotebol", "corrida","vôlei"]
+let familia= {
+    nomeDoPai: "Paulo",
+    nomeDaMae: "Eliane",
+    idadeDoPai: 45,
+    idadeDaMae: 40,
+}
+
+console.log("o nome da pessoa é " + nome +"sua idade é: "+ idade + "esta estudando? " + isEstudando + "seus esportes são " + esportesFavoritos + "sua familia é " + familia )
